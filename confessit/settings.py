@@ -130,3 +130,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 AUTH_USER_MODEL = 'confessit_api.UserProfile'
 
 STATIC_ROOT = 'static/'
+
+PORT = 8000
